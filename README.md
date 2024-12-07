@@ -1,22 +1,19 @@
-# Keeper-App
+# Keeper-App 📝📒
 Create mindful notes with the power of React.js
 
-To-Do List-Advance 📄 is a React App which lets you add your daily tasks so that you don't need to remember them in your brains. 😅
+💡 Keeper is a React app in which you can make notes 📝📒 of whats in your beautiful mind.
 
-It is made using some concepts of **Vanilla JavaScript**, **ECMAScript 6** and **React.js** such Event Handling, Spread (...) Operator, Ternary Operator, Arrow function map() & filter() methods of array, useState() Hook and Controlled Form Component.
+It is created using **HTML**, **CSS** and JavaScript library - **React**
 
-It also demonstrates how to access a state variable of parent component from a child component in React.
+It uses concepts of **Vanilla JavaScript**, **ECMAScript 6**, **React.js**.
 
-It is divided into proper components for easy understanding of code
+**Material UI** is used for Styling of the app. It also uses **transparent texture** for styling the background of the app.
 
 ### How to use to app?
-- Write down whichever task you want add in the list in the input field and just hit Add button.
-
-- You will see your task fly 🕊 down from the input field to land and save as a bullet point.
-
-- Now once a task is done, you can also remove that paritcular task by clicking on it.
-
-- This will remove the task from the list (the task just disappears).
+- When the you first clicks on the "Create a note..." field, it expands into 2 input fields (one for title and another for content of the note) and a "➕" button.
+- Now you can write a title and content of your note and hit the "➕" button.
+- This will add your note as a separate note below the input fields.
+- If you want to delete a note, then just hit the bin icon and your note will disappear.
 
 ### How to run the project
 -	First open the terminal and change the directory to the current working directory in which we have our project using **cd command**.
