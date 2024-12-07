@@ -11,8 +11,12 @@ It uses concepts of **Vanilla JavaScript**, **ECMAScript 6**, **React.js**.
 
 ### How to use to app?
 - When the you first clicks on the "Create a note..." field, it expands into 2 input fields (one for title and another for content of the note) and a "➕" button.
+  
+
 - Now you can write a title and content of your note and hit the "➕" button.
+
 - This will add your note as a separate note below the input fields.
+
 - If you want to delete a note, then just hit the bin icon and your note will disappear.
 
 ### How to run the project
